@@ -88,7 +88,7 @@ publishing:
     enableKatex: true
     copyAssets: true
     siteHierarchies:
-        - root
+    siteUrl: https://github.com/aftabn10/dendron_test
     writeStubs: false
     siteRootDir: docs
     seo:
